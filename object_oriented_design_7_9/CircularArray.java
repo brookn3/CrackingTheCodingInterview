@@ -1,6 +1,3 @@
-/**
- * 
- */
 package object_oriented_design_7_9;
 
 import java.lang.Iterable;
